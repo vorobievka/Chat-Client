@@ -33,7 +33,7 @@ public class Main {
         port = settings.get(0).port;
 
         System.out.println("host: " + host);
-        System.out.println("post: " + port);
+        System.out.println("port: " + port);
 
         Scanner scanner = new Scanner(System.in);
 
